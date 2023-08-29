@@ -2,3 +2,7 @@ Esse é um projeto de treino de git da Residencia em Software TIC18
 
 ##################################################################
 Essa é a area dedicada ao desenvolvimento de features
+Feature: desenvolvimento de uma navbar
+
+
+NÃO QUERO
